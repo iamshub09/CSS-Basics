@@ -1,0 +1,60 @@
+*{
+margin:0px;
+padding:0px;
+}
+.blank{
+height:10% ;
+width: 100%;
+background-color:white; 
+}
+h3{
+    font-weight:bold;
+    font-size: 20px;
+}
+.blank2{
+    height:5% ;
+    width: 100%;
+    background-color:white; 
+    }
+
+
+.head{
+    background-image: url("pattern.jpeg");
+    height:30% ;
+    width:100%;
+}
+ .head2{
+    
+     font-size:100px;
+     font-weight:bold;
+     color:khaki;
+ }
+ .head3{
+    
+    font-size:32px;
+    font-weight:bold;
+    color:white;
+}
+
+.head4{
+    height:5% ;
+    width:100%;
+    background-color:mediumspringgreen;
+
+}
+.head6{
+    height:5% ;
+    width:100%;
+    background-color:lightcoral;
+}
+.head7{
+    height:5% ;
+    width:100%;
+    background-color:skyblue;
+
+}
+.linking{
+  font-weight: bold;
+  color: blue;
+  text-decoration: none; 
+}
